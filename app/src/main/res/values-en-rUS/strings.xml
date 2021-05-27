@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Puerta Covid</string>
+    <string name="historial">Record</string>
+    <string name="cuenta">Account</string>
+    <string name="salir">Log Out</string>
+    <string name="inicio">Principal</string>
+    <string name="select_language">Select Language</string>
+    <string name="aforo">Capacity</string>
+    <string name="puertasegura">Segure Door</string>
+    <string name="abrirpuerta">Open Door</string>
+    <string name="cerrarpuerta">Close Door</string>
+    <string name="usuario">User</string>
+    <string name="administrador">Administrator</string>
+    <string name="cuentausuario">User Account</string>
+    <string name="conectar">Connect</string>
+    <string name="capacidad">Capacity: 20 people</string>
+    <string name="buscar">Search</string>
+    <string name="conectar_bt">Connect device</string>
+    <string name="recuperacontraseña">Recover your password</string>
+    <string name="ingresaemail">Enter your email</string>
+    <string name="reestablecercontraseña">Recover password</string>
+    <string name="continuar_no_bt">Continue without BT</string>
+    <string name="automatizar">Automate</string>
+
+</resources>
